@@ -1,8 +1,15 @@
 import React from "react";
-import OmdbContainer from "./components/OmdbContainer";
+import "./App.css";
+import Header from "./components/Header";
+import EmployeesContainer from "./components/Container/EmployeesContainer";
 
-function App() {
-  return <OmdbContainer />;
-}
+const App = () => {
+  return (
+    <>
+      <Header />
+      <EmployeesContainer />
+    </>
+  );
+};
 
 export default App;
