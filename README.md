@@ -20,7 +20,7 @@ Running a business can be a time consuming task and you should be able to devote
 #
 <br>
 
-<img src="https://i.ibb.co/QrcM4xg/Screen-Shot-2021-02-05-at-10-09-41-PM.png" alt="Screen-Shot-2021-02-05-at-10-09-41-PM" border="0">
+<img src="https://i.ibb.co/LhGvWCG/Screen-Shot-2021-02-05-at-10-43-59-PM.png" alt="Screen-Shot-2021-02-05-at-10-43-59-PM" border="0">
 <br>
 <br>
 
