@@ -19,7 +19,7 @@ const EmployeeTable = (props) => {
             <span onClick={() => props.sortBy("email")}>Email</span>
           </th>
           <th scope="col">
-            <span onClick={() => props.sortBy("dob", "date")}>DOB</span>
+            <span onClick={() => props.sortBy("dob", "date")}>Birthday</span>
           </th>
         </tr>
       </thead>
