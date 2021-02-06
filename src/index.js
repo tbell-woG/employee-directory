@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import app from "./app";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import * as serviceWorker from "./serviceWorker";
-import './fonts/montserrat.ttf';
+import * as serviceWorker from "./service-worker";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+
+ReactDOM.render(<app />, document.getElementById("root"));
 
 serviceWorker.unregister();

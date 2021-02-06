@@ -1,9 +1,9 @@
 import React from "react";
-import "./App.css";
-import Header from "./components/Header";
-import EmployeesContainer from "./components/Container/EmployeesContainer";
+import "./app.css";
+import Header from "./components/header";
+import EmployeesContainer from "./components/container/employee-container";
 
-const App = () => {
+const app = () => {
   return (
     <>
       <Header />
@@ -12,4 +12,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default app;
