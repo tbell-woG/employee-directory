@@ -1,7 +1,7 @@
 import React from "react";
-import "./app.css";
-import Header from "./components/header";
-import EmployeesContainer from "./components/container/employee-container";
+import "./App.css";
+import Header from "./components/Header";
+import EmployeesContainer from "./components/Container/EmployeesContainer";
 
 const app = () => {
   return (
